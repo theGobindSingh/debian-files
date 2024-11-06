@@ -51,6 +51,10 @@ source ~/.zshrc
 nvm install --lts
 echo "NVM Installed!"
 
+# pulseaudio
+sudo apt install pulseaudio pavucontrol -y
+echo "Pulseaudio Installed!"
+
 # sox
 sudo apt install sox -y
 sudo apt install libsox-fmt-all -y
