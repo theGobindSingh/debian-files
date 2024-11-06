@@ -1,7 +1,11 @@
 *
 
 !/.zshrc
-!.kuru/**/*.*
-!.pleasestop/**/*.*
+!/.kuru/
+!/.kuru/**/*.*
+!/.pleasestop/
+!/.pleasestop/**/*.*
 !/.gitignore
 !/setup.sh
+
+# don't ignore .kuru folder
