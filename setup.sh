@@ -51,6 +51,11 @@ source ~/.zshrc
 nvm install --lts
 echo "NVM Installed!"
 
+# sox
+sudo apt install sox -y
+sudo apt install libsox-fmt-all -y
+echo "Sox Installed!"
+
 # Clean up the flag file at the end (optional)
 rm "$FLAG_FILE"
 echo "Setup Complete"

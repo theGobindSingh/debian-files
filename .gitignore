@@ -1,7 +1,7 @@
 *
 
 !/.zshrc
-!/.kuru
-!/.pleasestop
+!.kuru/**/*.*
+!.pleasestop/**/*.*
 !/.gitignore
 !/setup.sh
